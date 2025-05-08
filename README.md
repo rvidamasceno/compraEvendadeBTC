@@ -29,10 +29,6 @@ Este projeto é um aplicativo desenvolvido em Python utilizando o framework [Fle
 
 3. O aplicativo abrirá em seu navegador padrão.
 
-## Imagens
-
-(Adicione aqui capturas de tela da interface e dos gráficos, se desejar)
-
 ## Licença
 
 Este projeto é livre para uso educacional e pessoal.
