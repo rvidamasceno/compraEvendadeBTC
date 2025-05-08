@@ -1,0 +1,7 @@
+requests
+pandas
+ta
+python-binance
+flet
+
+
